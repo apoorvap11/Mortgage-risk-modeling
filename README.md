@@ -4,7 +4,7 @@
 ### Interpretable Machine Learning • Responsible AI • SHAP • Partial Dependence • Credit Risk Analytics
 
 This project builds and explains machine learning models that predict **high-priced mortgage loans**, a critical factor in assessing borrower risk, fairness, and financial outcomes.  
-The focus is not only on predictive performance but on **transparency, interpretability, and responsible ML practices** — skills essential for real-world credit risk modeling.
+The focus is not only on predictive performance but on **transparency, interpretability, and responsible ML practices**, skills essential for real-world credit risk modeling.
 
 Originally developed as part of my graduate coursework, this repo has been fully refined into a **professional, portfolio-quality project** demonstrating end-to-end responsible machine learning.
 
@@ -23,7 +23,7 @@ Originally developed as part of my graduate coursework, this repo has been fully
 ## Project Objective
 
 Predict the likelihood that a mortgage is **high-priced**, defined as a loan with an annual percentage rate significantly above comparable market rates.  
-This prediction task matters because high-priced loans disproportionately affect vulnerable groups — making interpretability and fairness essential.
+This prediction task matters because high-priced loans disproportionately affect vulnerable groups, making interpretability and fairness essential.
 
 This project answers:
 - **What features most influence mortgage pricing risk?**  
